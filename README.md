@@ -1,2 +1,2 @@
 # MadLibsAdventure
-Inportant Note Works With Python3 Only
+Important Note Works With Python3 Only
